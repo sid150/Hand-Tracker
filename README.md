@@ -164,7 +164,7 @@ bash
    - ![Output 4](sam2/output/output40.png)
    - ![Output 5](sam2/output/output50.png)
    - ![Output 6](sam2/output/output60.png)
-   - ![Output 7](output/output70.png)
+   - ![Output 7](sam2/output/output70.png)
 
 ## Improvements
 
