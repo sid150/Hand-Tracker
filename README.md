@@ -171,13 +171,5 @@ bash
 1. Introduce negative indicators to remove arm segments from masks, ensuring only hands are detected.
 2. Optimize mask generation and frame processing for larger videos.
 
----
 
-## Future Work
 
-1. Enhance detection accuracy by refining model training with diverse datasets.
-2. Integrate real-time hand tracking for video streams.
-3. Extend functionality for multi-hand detection scenarios.
-
----
- want to add output images that are in the output  folder, the first image is called initial.png reast are called output1.png output10.png and till output70.png
