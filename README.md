@@ -10,7 +10,7 @@ bash
 2. Activate the Conda environment:
    
 bash
-   conda activate sam2
+   conda activate sam 2
 
 
 3. Install all required Python modules as specified in the accompanying documentation. Additionally, ensure the following are installed:
